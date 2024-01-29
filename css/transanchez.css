@@ -1,0 +1,16 @@
+.buttonTSanchez{
+				/*margin:40px 0 10px;*/
+				/*text-transform:uppercase;*/
+				padding-top: 0.5rem;
+				padding-bottom: 1rem;
+				padding-left: 1rem;
+				padding-right: 1rem;
+				font-size:10px;
+				letter-spacing:1px;
+				height:18px;
+				line-height:10px;
+				border-radius:20px;
+				position:relative;
+				box-shadow:inset 10px -12px 0 0 rgba(0,0,0,.16)
+
+				}

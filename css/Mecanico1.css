@@ -1,0 +1,92 @@
+
+ body {
+   margin: 0;
+   padding: 0;
+   background-image: url(../images/keys-1380134.jpg);
+   background-size: cover;
+   font-family: sans-serif;
+   height: 100vh;
+   color: #fff;
+   
+ }
+
+  .Login-bop {
+    width: 720px;
+    height: 420px;
+    background: #17202A40;
+    margin: 0;
+    padding: 0;
+    background-image: url('../images/mechanical-engineering-2993233__340.jpg');
+    background-size: cover;
+    color: #000;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    padding: 70px 30px; 
+  }
+
+  
+.Login-bop h1 {
+  margin: 0;
+  padding: 0 0 20px;
+  text-align: center;
+  font-size: 22px;
+  color: #fff;
+
+
+}
+
+  .Login-bop label {
+
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    display: block;
+    color: #fff;
+
+  }
+
+  .Login-bop input {
+
+    width: 100%;
+    margin-bottom: 20px;
+
+  }
+
+  .Login-bop button[type="text"],
+  .Login-bop button[type="password"] {
+
+    border: none;
+    border-bottom: 1px solid #fff;
+    background:transparent;
+    outline: none;
+    height: 40px;
+    color: #fff;
+    font-size: 16px;
+  }
+
+
+button{
+  width: 50%;
+  height: 15%;
+  border: none;
+  outline: none;
+  background: #841d1d;
+  color: #fff;
+  font-size: 18px;
+  border-radius: 20px;
+  padding: 10px 10px;
+
+}
+button .Aceptar{
+  text-decoration: none;
+  font-size: 16px;
+  line-height: 20px;
+  color: #ffffff;
+  border-radius: 20px;
+}
+button a:hover{
+  color: #fff;
+}

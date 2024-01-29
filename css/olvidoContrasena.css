@@ -1,0 +1,96 @@
+
+ body {
+   margin: 0;
+   padding: 0;
+   background-image: url(../images/transportation-1495618.jpg);
+   background-size: cover;
+   font-family: sans-serif;
+   height: 100vh;
+   color: #fff;
+   background-attachment: fixed;
+ }
+
+  .Login-bop {
+    width: 320px;
+    height: 420px;
+    background: #00000040;
+    color: #000;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    padding: 70px 30px; 
+  }
+
+  .Login-bop .avatar {
+
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: -50px;
+    left: calc(50% - 50px);
+
+  }
+
+.Login-bop h1 {
+  margin: 0;
+  padding: 0 0 20px;
+  text-align: center;
+  font-size: 22px;
+  color: #fff;
+
+
+}
+
+  .Login-bop label {
+
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    display: block;
+    color: #fff;
+
+  }
+
+  .Login-bop input {
+
+    width: 100%;
+    margin-bottom: 20px;
+
+  }
+
+  .Login-bop input[type="text"],
+  .Login-bop input[type="password"] {
+
+    border: none;
+    border-bottom: 1px solid #fff;
+    background:transparent;
+    outline: none;
+    height: 40px;
+    color: #fff;
+    font-size: 16px;
+  }
+
+button{
+  width: 33.3%;
+  height: 10%;
+  border: none;
+  outline: none;
+  background: #b80f22;
+  color: #fff;
+  font-size: 18px;
+  border-radius: 20px;
+  padding: 10px 10px;
+}
+button .Aceptar{
+  text-decoration: none;
+  font-size: 16px;
+  line-height: 20px;
+  color: darkgrey;
+  border-radius: 20px;
+}
+button a:hover{
+  color: #fff;
+}
